@@ -5,7 +5,8 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
-    "build": "vite build",
+    "build-colony": "vite build ./colonyBuildHTML --outDir=\"../dist/colony\" --emptyOutDir",
+    "build-menu": "vite build ./menuBuildHTML --outDir=\"../dist/menu\" --emptyOutDir",
     "serve": "vite preview"
   },
   "license": "MIT",
