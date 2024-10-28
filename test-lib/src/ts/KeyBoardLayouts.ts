@@ -70,7 +70,7 @@ const kbSecondRowDK: KeyElement[] = [
     {char: 'p', width: 1/16, symbolTypes: [SymbolType.Alphabetic], finger: [Fingers.R_RING]},
     {char: 'å', width: 1/16, symbolTypes: [SymbolType.Alphabetic], finger: [Fingers.R_PINKY, Fingers.R_RING]},
     {char: '¨', width: 1/16, symbolTypes: [SymbolType.Grammar], finger: [Fingers.R_PINKY]},
-    {char: 'Enter', width: 2.5/16, symbolTypes: [SymbolType.Special], finger: [Fingers.R_PINKY]}
+    {char: '⏎', width: 2.5/16, symbolTypes: [SymbolType.Special], finger: [Fingers.R_PINKY]}
 ];
 const kbThirdRowDK: KeyElement[] = [
     {char: 'Caps', width: 1.75/16, symbolTypes: [SymbolType.Special], finger: [Fingers.L_PINKY]},
@@ -86,7 +86,7 @@ const kbThirdRowDK: KeyElement[] = [
     {char: 'æ', width: 1/16, symbolTypes: [SymbolType.Alphabetic], finger: [Fingers.R_RING, Fingers.R_PINKY]},
     {char: 'ø', width: 1/16, symbolTypes: [SymbolType.Alphabetic], finger: [Fingers.R_PINKY, Fingers.R_RING]},
     {char: '\'', width: 1/16, symbolTypes: [SymbolType.Grammar], finger: [Fingers.R_PINKY]},
-    {char: 'Enter', width: 2.25/16, symbolTypes: [SymbolType.Special], finger: [Fingers.R_PINKY]}
+    {char: '⏎', width: 2.25/16, symbolTypes: [SymbolType.Special], finger: [Fingers.R_PINKY]}
 ];
 const kbFourthRowDK: KeyElement[] = [
     {char: 'Shift', width: 1.25/16, symbolTypes: [SymbolType.Special], finger: [Fingers.L_PINKY]},
